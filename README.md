@@ -15,4 +15,4 @@ For more information, please see our presentation (in pdf format) and our protot
 - [Taihua Li] (https://www.linkedin.com/in/taihuali)
 - [Yaqiong Gao] (https://www.linkedin.com/in/gaoyaqiong)
 - [Yijun Yin] (https://www.linkedin.com/in/yijun-kim-yin-14049495)
-- [Yaxuan Zhang] (https://www.linkedin.com/in/yuxuan-tim-zhang-83b07057)
+- [Yuxuan Zhang] (https://www.linkedin.com/in/yuxuan-tim-zhang-83b07057)
